@@ -36,5 +36,10 @@ Steps:
 
 ## Screenshots
 
-![Android](../Images/android.png?raw=true "Android Device")
+Android Device
+![Android](../Speed_Indicator/Images/android.png?raw=true "Android Device")
+
+
+Terminal
+![Terminal](../Speed_Indicator/Images/terminal.png?raw=true "Terminal")
 
