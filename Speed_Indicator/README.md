@@ -19,7 +19,7 @@ On any Shell (Windows, ConEmu, etc.)
 
 ## Steps to edit file
 
-We recorecommend #### [Sublime Text] (https://www.sublimetext.com/)
+We recommend [Sublime Text](https://www.sublimetext.com/)
 
 Steps:
 1. Open Sublime Text
