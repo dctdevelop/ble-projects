@@ -36,6 +36,5 @@ Steps:
 
 ## Screenshots
 
-.. image:: ../Images/android.png
+![Android](../Images/android.png?raw=true "Android Device")
 
-image:: ../images/terminal.png
