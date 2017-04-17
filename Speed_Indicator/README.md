@@ -25,10 +25,15 @@ Steps:
 1. Open Sublime Text
 2. Project
 3. Add Folder To Project. 
+
 ![Open_Project](../Speed_Indicator/Images/openproject.png?raw=true "Open Project")
+
 4. Find your project folder. 
+
 ![Structure](../Speed_Indicator/Images/projectstructure.png?raw=true "Structure")
+
 5. Open files to edit.
+
 ![Edit](../Speed_Indicator/Images/filestoedit.png?raw=true "Edit")
 ![Sublime](../Speed_Indicator/Images/sublimeexample.png?raw=true "Sublime")
 
