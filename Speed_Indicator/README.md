@@ -33,3 +33,9 @@ Steps:
 #### [Cordova Android Platform Guide](https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
 #### [Cordova Ios Platform Guide](https://cordova.apache.org/docs/en/latest/guide/platforms/ios/index.html)
 #### [CSS, JS, HTML, JQuery Examples](https://www.w3schools.com/)
+
+## Screenshots
+
+.. image:: ../Images/android.png
+
+image:: ../images/terminal.png
